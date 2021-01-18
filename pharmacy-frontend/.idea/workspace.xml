@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0abec5fb-7d3a-4afa-b580-a2b47c0e36fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/CarouselBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/Jubotron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/Navibar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentsO/ikon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PagesO/Catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PagesO/Contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PagesO/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PagesO/Infa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/rosl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nCAy2hAby9CwX92EhSmf2thGWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ЛБ1_Черненко Дарії/WEB/Server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DarTsch\Desktop\kursova\pharmacy-frontend\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DarTsch\Desktop\kursova\pharmacy-frontend\public" />
+      <recent name="C:\Users\DarTsch\Desktop\kursova\pharmacy-frontend\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0abec5fb-7d3a-4afa-b580-a2b47c0e36fe" name="Default Changelist" comment="" />
+      <created>1610883949921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610883949921</updated>
+      <workItem from="1610883963277" duration="872000" />
+      <workItem from="1610885000368" duration="1367000" />
+      <workItem from="1610886715501" duration="316000" />
+      <workItem from="1610887866692" duration="632000" />
+      <workItem from="1610888529900" duration="1807000" />
+      <workItem from="1610890368468" duration="1780000" />
+      <workItem from="1610892182528" duration="1816000" />
+      <workItem from="1610894029823" duration="1822000" />
+      <workItem from="1610895881432" duration="1783000" />
+      <workItem from="1610897750752" duration="1739000" />
+      <workItem from="1610899517383" duration="107000" />
+      <workItem from="1610899666233" duration="2519000" />
+      <workItem from="1610902254108" duration="1518000" />
+      <workItem from="1610904058901" duration="631000" />
+      <workItem from="1610912876859" duration="1789000" />
+      <workItem from="1610914732284" duration="1781000" />
+      <workItem from="1610916543437" duration="1792000" />
+      <workItem from="1610918653686" duration="1711000" />
+      <workItem from="1610920559047" duration="1703000" />
+      <workItem from="1610922323849" duration="1802000" />
+      <workItem from="1610924180075" duration="1784000" />
+      <workItem from="1610925993146" duration="1804000" />
+      <workItem from="1610927974594" duration="92000" />
+      <workItem from="1610956330120" duration="1776000" />
+      <workItem from="1610958184967" duration="1748000" />
+      <workItem from="1610960019278" duration="1786000" />
+      <workItem from="1610961844093" duration="1788000" />
+      <workItem from="1610963681687" duration="1786000" />
+      <workItem from="1610965502296" duration="1529000" />
+      <workItem from="1610967820353" duration="1301000" />
+      <workItem from="1610969606396" duration="1477000" />
+      <workItem from="1610971125735" duration="1304000" />
+      <workItem from="1610980320665" duration="1014000" />
+      <workItem from="1610984329556" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
