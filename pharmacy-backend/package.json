@@ -1,0 +1,111 @@
+{
+  "name": "pharmacy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"./**/*.js\"",
+    "lintFix": "eslint --fix './**/*.js'",
+    "migrate": "sequelize-mig migration:make",
+    "upgrade": "sequelize-cli db:migrate",
+    "dev": "nodemon --exec \"npm run lint && node index.js\"",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airbnb": "0.0.2",
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.16.0",
+    "eslint-plugin-import": "^2.22.1",
+    "express": "^4.17.1",
+    "express-joi-validation": "^5.0.0",
+    "express-joi-validator": "^2.0.1",
+    "helmet": "^4.3.1",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5",
+    "sequelize-json-serializer": "^1.1.0",
+    "sequelize-mig": "^2.4.1",
+    "sequelize-cli": "^6.2.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base",
+    "ignorePatterns": [
+      "src/migrations/*",
+      "src/seeders/*",
+      "models"
+    ],
+    "env": {
+      "es6": true,
+      "browser": true,
+      "node": true
+    },
+    "rules": {
+      "brace-style": [
+        "error",
+        "stroustrup"
+      ],
+      "comma-dangle": [
+        "error",
+        "never"
+      ],
+      "no-unused-vars": [
+        "off"
+      ],
+      "no-var": [
+        "off"
+      ],
+      "one-var": [
+        "off"
+      ],
+      "no-plusplus": [
+        "off"
+      ],
+      "global-require": "off",
+      "import/no-dynamic-require": "off",
+      "consistent-return": "off",
+      "no-console": "off",
+      "semi": [
+        "error",
+        "always"
+      ],
+      "indent": [
+        "error",
+        4
+      ],
+      "comma-spacing": [
+        "error",
+        {
+          "before": false,
+          "after": true
+        }
+      ],
+      "object-curly-spacing": [
+        "error",
+        "always"
+      ],
+      "space-before-function-paren": [
+        "error",
+        {
+          "anonymous": "always",
+          "named": "always",
+          "asyncArrow": "always"
+        }
+      ]
+    }
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.2.1",
+    "nodemon": "^2.0.6"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
